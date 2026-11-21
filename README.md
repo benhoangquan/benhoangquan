@@ -12,6 +12,7 @@ First-year professional master's student at Mila and Université de Montréal. I
 | [hvac-demand-forecasting](https://github.com/benhoangquan/hvac-demand-forecasting) | LSTM that forecasts a Montreal house's HVAC load 4 hours (16 steps) ahead. Five-seed bagged ensemble, tracked with MLflow. Kaggle score 0.35333. | PyTorch, MLflow |
 | [swarm-alignment-2026](https://github.com/Nas01010101/swarm-alignment-2026) | Paper and code on whether rules or ownership get 100 LLM agents (Gemma 4 26B) to build a shared wall. An elected quota-setter keeps 36.6 of 100 agents alive on average, laissez-faire keeps 5.0. First author, with three teammates. | Python, Minecraft (Mineflayer), LLM agents |
 | [khp-guardrail-hackathon](https://github.com/benhoangquan/khp-guardrail-hackathon) | English and French triage guardrail for youth mental-health chat, built for the Mila x Bell x Kids Help Phone hackathon. A drift diffusion model over the conversation is blended with an LLM judge: F1 0.850 at 1,103 ms per sample on the organizers' test set. Team of five. | Python, LLM judge, drift diffusion model |
+| [mila-robot-learning](https://github.com/benhoangquan/mila-robot-learning) | Course homeworks on LIBERO manipulation: a transformer policy, DreamerV3 and CEM planning, PPO, GRPO and DAgger. Everything runs end to end, and nearly every policy scores 0% success. The README traces each failure to its cause (missing tasks in the data, sparse rewards, small RL budgets). | PyTorch, MuJoCo, LIBERO, DreamerV3 |
 
 ## Contact
 
